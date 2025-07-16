@@ -47,11 +47,11 @@ TryHackMe:
 ## 📈 GitHub Analyst
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeseniaCortez&show_icons=true&theme=calm&hide_title=false" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jovita03&show_icons=true&theme=calm&hide_title=false" alt="Estadísticas" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeseniaCortez&theme=calm&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jovita03&theme=calm&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeseniaCortez&layout=compact&theme=calm" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovita03&layout=compact&theme=calm" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -70,7 +70,5 @@ TryHackMe:
 
 ---
 
-<p align="center">
-  Gracias por visitar mi perfil ✨  
-</p>
+
 
