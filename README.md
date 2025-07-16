@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi! I´m Jesenia Cortez ✨</h1>
+<h1 align="center"> Hi! I´m Jesenia Cortez </h1>
 <h3 align="center">🎓 Estudiante de Informática en CUCEI</h3>
 
 ---
@@ -28,7 +28,7 @@ Bases de Datos
   <img src="Try Hack Me.png" alt="Certificado TryHackMe" width="500px"/>
 </p>
 
-## 📌 Proyectos Fijados
+##  Proyectos Fijados
 
 🔹 [**Portafolio JS**](https://jovita03.github.io/PortfolioJs/)  
 🔹 [**Seminario de Sistemas Operativos**](https://myportfoliooosso.netlify.app/)
