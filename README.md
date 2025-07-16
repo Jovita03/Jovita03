@@ -29,7 +29,7 @@
 TryHackMe:
 
 <p align="center">
-  <img src="Try Hack Me.png" alt="Certificado TryHackMe" width="400px"/>
+  <img src="Jovita03/Try Hack Me.png" alt="Certificado TryHackMe" width="400px"/>
 </p>
 
 ---
