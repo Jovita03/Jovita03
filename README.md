@@ -29,25 +29,25 @@
 TryHackMe:
 
 <p align="center">
-  <img src="C:\Users\Joba\Desktop\Jovita03\Try Hack Me.pdf" alt="Certificado TryHackMe" width="400px"/>
+  <img src="Try Hack Me.png" alt="Certificado TryHackMe" width="400px"/>
 </p>
 
 ---
 
 ## 📌 Proyectos Fijados
 
-### 🔹 [Portafolio Interactivo](https://jeseniacortez.github.io/portafolio/)
-> Mi currículum visual, animado y completamente responsivo con HTML, CSS y JavaScript.
+### 🔹 [Portafolio Js](https://jovita03.github.io/PortfolioJs/)
 
-### 🔹 [Calculadora con estilo](https://jeseniacortez.github.io/calculadora/)
-> Proyecto de práctica con diseño moderno, animaciones y paleta personalizada.
+
+### 🔹 [Seminario de Sistemas Operativos](https://myportfoliooosso.netlify.app/)
+
 
 ---
 
 ## 📈 GitHub Analyst
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeseniaCortez&show_icons=true&theme=calm&hide_title=false" alt="Estadísticas de Jesenia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeseniaCortez&show_icons=true&theme=calm&hide_title=false" alt="Estadísticas" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JeseniaCortez&theme=calm&hide_border=false" alt="GitHub Streak" />
   <br/>
@@ -59,16 +59,11 @@ TryHackMe:
 ## 📬 Redes y Contacto
 
 <p align="center">
-  <a href="https://t.me/jeseniacortez">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeseniacortez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/jeseniacortez">
+
+  <a href="https://www.instagram.com/cortezjessy26?igsh=aGhvc3RtMWY4eHQy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:jeseniacortez@gmail.com">
+  <a href="jesenia.castellanos8707@gmail.com ">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -78,3 +73,4 @@ TryHackMe:
 <p align="center">
   Gracias por visitar mi perfil ✨  
 </p>
+
