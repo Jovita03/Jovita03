@@ -25,7 +25,7 @@ Bases de Datos
 
 ### TryHackMe
 <p align="center">
-  <img src="Try Hack Me.png" alt="Certificado TryHackMe" width="500px"/>
+  <img src="Try Hack Me.png" alt="Certificado TryHackMe" width="620px"/>
 </p>
 
 ##  Proyectos Fijados
