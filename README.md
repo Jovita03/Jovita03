@@ -47,7 +47,7 @@ Informatics Engineering Student
 <p align="center">
   <img src="Try Hack Me.png" width="240"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Design Thinking.png" width="240"/>
+  <img src="Design Thinking.jpeg" width="240"/>
 </p>
 
 ## GitHub Stats
