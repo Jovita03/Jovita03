@@ -44,11 +44,22 @@ Informatics Engineering Student
 
 ## Certifications
 
-<p align="center">
-  <img src="Try Hack Me.png" width="240"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Design Thinking.jpeg" width="240"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Try Hack Me.png" width="280"><br>
+      TryHackMe
+    </td>
+    <td align="center">
+      <img src="Design Thinking.jpeg" width="280"><br>
+      Design Thinking
+    </td>
+    <td align="center">
+      <img src="PowerBI.png" width="280"><br>
+      Power BI
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
