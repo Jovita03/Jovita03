@@ -63,8 +63,9 @@ Informatics Engineering Student
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jovita03&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Jovita03&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ## Contact
 
